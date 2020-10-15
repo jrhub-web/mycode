@@ -20,7 +20,7 @@ ansible_user=admin
 ansible_ssh_pass=alta3
 
 [ciscoswitches]
-; description of our cisco ~/mycode/inventory
+; description of our cisco inventory
 cisco1      ansible_host=192.168.0.1
 cisco2      ansible_host=192.168.0.2
     
